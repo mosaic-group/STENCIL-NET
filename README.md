@@ -1,8 +1,7 @@
 # STENCIL-NET
 
 This repository contains the code for the discretization of PDEs from data using STENCIL-NET and is accompanying the 
-paper "STENCIL-NET: Data-driven solution-adaptive discretization of partial differential equations" submitted to 
-NeurIPS 2020. All the codes have been implemented using PyTorch and are properly documented.
+paper "STENCIL-NET: Data-driven solution-adaptive discretization of partial differential equations". All the codes have been implemented using PyTorch and are properly documented.
 
 ## Dependencies
 
